@@ -1,0 +1,16 @@
+移动之后
+
+FindServlet.java  String sql="select * from tb_book2013111110 where id=?";   修改数据库名tb_book2013111110
+
+DbServlet.java    String sql="insert into tb_book2013111110(name,price,bookCount,author) values(?,?,?,?)";修改数据库名tb_book2013111110
+
+
+ConnDB.java  private static String url = "jdbc:mysql://192.168.48.148:3306/db";  修改地址192.168.48.148
+
+
+findservlert  查找 在eclipse上方的地址栏修改  添加 “?id=编号”  即  http://localhost:8080/db4/find?id=1
+
+addBook  添加  运行添加
+
+
+tb_book.sql数据库文件

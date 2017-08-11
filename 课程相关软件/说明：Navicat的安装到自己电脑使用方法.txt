@@ -1,0 +1,9 @@
+Navicat的安装使用方法
+
+1、下载MySQL Server安装包
+
+2、在cmd输入以下命令：
+ D:\Program Files\MySQL\MySQL Server 5.5\bin\mysqladmin -u root flush-privileges password "newpassword" 重设root密码；
+
+【D:\Program Files\MySQL  是安装路径】
+【"newpassword" 为密码  即用户名为root 密码是newpassword】

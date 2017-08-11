@@ -1,0 +1,6 @@
+Hibernate 笔记 HQL查询（一）单属性，多属性查询 
+http://www.cnblogs.com/zilong882008/archive/2011/11/05/2237123.html
+
+
+Hibernate 笔记 HQL查询（二）条件查询，聚集函数，子查询，导航查询 
+http://www.cnblogs.com/zilong882008/archive/2011/11/05/2237243.html

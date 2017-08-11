@@ -1,0 +1,8 @@
+User_editForm.jsp   User_regForm.jsp  
+
+
+两个文件需要建立在另一个文件运行成功的基础上、、、、即、、、
+
+先运行一个文件，成功之后再在上面的地址栏输入上两个文件名，如：http://localhost:8080/struts2_4/User_regForm   
+
+【User_regForm为后面加上的，原先是http://localhost:8080/struts2_4/userAdd.jsp】

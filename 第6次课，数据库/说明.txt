@@ -1,0 +1,5 @@
+1、mysql-5.5.34-win32.msi  是数据库安装包
+
+2、Navicat 8.2.12 是绿化包，文件是navicat.exe，点击启动数据库
+
+3.mysql-connector-java-5.1.15-bin.jar  是数据库和eclipse的连接文件

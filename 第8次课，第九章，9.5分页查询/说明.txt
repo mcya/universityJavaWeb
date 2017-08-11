@@ -1,0 +1,8 @@
+一定要更改数据名和地址文明
+分别在
+
+BookDAO.java / 每一个方法体下都要更改一次数据库名String sql="select * from tb_book001";
+
+ConnDB.java  /private static String url = "jdbc:mysql://192.168.48.148:3306/db";   [192.168.48.148]
+	      private static String username = "root";     [root]
+	      private static String password = "123456";   [123456]
